@@ -1,4 +1,4 @@
-# Kevin
+# BF8-BOT
 
 A Little NodeJS bot with fortnite-api.com integrations
 You can also use this repo for create your own bot or just [invite](https://discord.com/oauth2/authorize?client_id=904155297340358676&scope=bot&permissions=322624) BF8-BOT
@@ -21,7 +21,7 @@ Don't hesitate to join the [Arab leakers](https://discord.gg/fvp9BjCz) !
 
 ### Install dependencies
 
-Install all dependencies (You can find there in the [package.json](https://github.com/Horziox/Kevin/blob/master/package.json)) or run `npm install` command
+Install all dependencies (You can find there in the [package.json](https://github.com/bf8d/BF8-BOT/blob/main/package.json)) or run `npm install` command
 
 ### Setup
 Change values in the index.js file in ressources folder as you want
