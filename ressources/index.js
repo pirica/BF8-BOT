@@ -1,6 +1,6 @@
 module.exports.Channels = Object.freeze({
     //Copy paste your channel ID for automatic post
-    battleroyalenews: "",
+    battleroyalenews: "906363682102059039",
     creativenews: "906363682102059039",
     savetheworldnews: "906363864713682985",
     emergencynotice: "906363963778945045",
